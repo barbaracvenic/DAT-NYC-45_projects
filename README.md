@@ -1,1 +1,3 @@
-# DAT-NYC-45_projects
+# Barbara Cvenic - Portfolio
+
+## General Assembly - Data Science Course Work
